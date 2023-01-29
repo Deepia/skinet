@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace API.Migrations
+namespace Infrastructure.Migrations
 {
     public partial class initialCreate : Migration
     {
