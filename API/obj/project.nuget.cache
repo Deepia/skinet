@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QMD6HCWK6JwuTvhBbDwd5y97j/PREIo88o4W9xjjEEKttq2xLswk30vHZA2Cz/rT6dqafqsKOly4JIfoxjCTbA==",
+  "dgSpecHash": "KPW+uELthWLSlONFpjQp6inygeyjMmnnm4Xa97HsN8ds6T55mmRLzMKyZt2CWemcvBA1FyAju41Y44R8DCOBrQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Deepak\\Documents\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Deepak\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Deepak\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\Deepak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\Deepak\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.13\\microsoft.entityframeworkcore.6.0.13.nupkg.sha512",
